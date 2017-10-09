@@ -16,8 +16,8 @@
     'description': """
     Module for ethereum signature for sale order
     """,
-    'price':110,
-    'currency': 'EUR',
+#    'price':110,
+#    'currency': 'EUR',
     'data': [
      'views/ethereum_config.xml',
      'views/sale_order.xml',
