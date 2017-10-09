@@ -14,8 +14,10 @@
     'author': "Sergey Stepanets",
     'category': 'Application',
     'description': """
-    Module for ethereum signature
+    Module for ethereum signature for sale order
     """,
+    'price':110,
+    'currency': 'EUR',
     'data': [
      'views/ethereum_config.xml',
      'views/sale_order.xml',
